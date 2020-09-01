@@ -15,4 +15,10 @@ On the <em>thinkorswim</em> platform,
 The volume pressure study dissects the original volume study and differentiates the buying volume from the selling volume. This can be used to determine the strength of a trend and also signify an end of a trend or potential reversals.
 
 Below is the volume pressure study as it displays on <em>thinkorswim</em>.
-![Volume Pressure Showcase](img/VolumePressure.PNG)
+![volume pressure showcase](img/VolumePressure.PNG)
+
+### 1) Chained Standard Deviation
+The chained standard deviation study consists of two standard deviation channels which show the general buying and selling zones of a stock. Within the two main channels, dotted lines show the half standard deviation. Both the half and full standard deviation lines frequently tend to act as support/resistance. This study can be used with multiple time frames for additional confirmation of a trade entry.
+
+Below is the chained standard deviation study as it displays on <em>thinkorswim</em>.
+![chained standard deviation showcase](img/ChainedStandardDev.PNG)
